@@ -12,5 +12,5 @@ Projeto pessoal que envolveu minha evolução nos processos de desenvolvimento F
 ## Aprendizagens 📑
 
 * Aprendi a criar elementos centralizados utilizando ````CSS````.
-* Como criar e organizar meus estilos e organização para um projeto bem organizado.
-* Aprendi a utilizar arrow functions em Javascript e como permitiu deixar o código mais limpo e coeso.
+* Como criar e organizar meus estilos e projetos para criar uma página bem organizada.
+* Aprendi a utilizar arrow functions em JavaScript e como permitiu deixar o código mais limpo e coeso.
